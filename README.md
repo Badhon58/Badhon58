@@ -27,7 +27,7 @@ Email Me 👉 ✉️ **badhon@theclinicall.com** For Collaboration/Project or An
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Badhon58&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Badhon58&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Badhon58&theme=radical">
-
+![](https://github-readme-stats.shion.dev/api?username=Badhon58&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 </div>
 
 ## 💻 Tech Stack:
